@@ -6,10 +6,10 @@
 
 #### 打开cmd 输入
 
-#### npm install anywhere -g
+`npm install anywhere -g`
 
 #### 在项目目录下打开cmd 输入
 
-#### anywhere
+`anywhere`
 
 #### 然后直接在浏览器打开 http://localhost:8001 即可
